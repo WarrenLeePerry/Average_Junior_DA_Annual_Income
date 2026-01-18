@@ -11,7 +11,7 @@ STEPS TAKEN
 ~	Find The Average Annual Income of Junior DA.
 ~	Clean & Validate Data
 ~	Analyze, Review Data
-~	Look For Trends & Patterns
+~	Look For Trends & Patterns ~
 ~ Build Visualization and Narrative To Present Findings ~
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
