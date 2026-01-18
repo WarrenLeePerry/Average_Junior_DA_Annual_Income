@@ -8,10 +8,10 @@ Objective/Goal
 The objective of this analysis is to assess how junior data analyst compensation compares to the regional living wage in my region. By grounding salary expectations in wage data, this project supports a justified target compensation range rather than arbitrary market figures.
 
 STEPS TAKEN
-	Find The Average Annual Income of Junior DA.
-	Clean & Validate Data
-	Analyze, Review Data
-	Look For Trends Patterns
+~	Find The Average Annual Income of Junior DA.
+~	Clean & Validate Data
+~	Analyze, Review Data
+~	Look For Trends Patterns
 Build Visualization and Narrative To Present Findings
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
