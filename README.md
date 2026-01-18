@@ -76,9 +76,9 @@ This analysis examines junior Data Analyst salaries in Canada and the United Sta
  
 File Download Links
 
-jobs_in_data.csv
-da_jobs_data.csv
-Average Junior DA Annual Income Word Doc.docx
+~ jobs_in_data.csv ~
+da_jobs_data.csv ~
+Average Junior DA Annual Income Word Doc.docx ~
 
 
 
