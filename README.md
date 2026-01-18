@@ -12,7 +12,7 @@ STEPS TAKEN
 ~	Clean & Validate Data
 ~	Analyze, Review Data
 ~	Look For Trends & Patterns
-~ Build Visualization and Narrative To Present Findings
+~ Build Visualization and Narrative To Present Findings ~
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
